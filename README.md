@@ -46,7 +46,7 @@ Currently, I'm focused on impactful projects in **web and mobile development**, 
 ### 🤝 Let's Connect
 
 - 💼 Open to collaborating on web, AI, or open source projects
-- 📬 Reach me at: `ayoubgharib30@gmail.com`
+- 📬 Reach me at: `Ayoubgharib30@gmail.com`
 - 🧑‍💻 GitHub: [@Ayoubghrib](https://github.com/Ayoubghrib)
 - 🌐 Portfolio: *Coming Soon*
 

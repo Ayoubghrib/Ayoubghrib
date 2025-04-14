@@ -1,21 +1,65 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+## Hi there 👋 I'm Ayoub Ghrib
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayoubghrib&label=Profile%20views&color=0e75b6&style=flat" alt="ayoubghrib" /> </p>
+🚀 Passionate **Software Developer** | 💡 Tech Enthusiast | 🎓 ALX Student | 🧠 Lifelong Learner
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayoubghrib" alt="ayoubghrib" /></a> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+### 👨‍💻 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ayoub gharib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayoub gharib" height="30" width="40" /></a>
-</p>
+I'm Ayoub Ghrib, a curious and driven developer who loves creating digital solutions that make a difference.  
+I have experience in full-stack web development, testing, and consulting, with past roles at **WebHelp**, **Majorel**, **SEBN.ma**, and **Hoari Travaux**.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+Currently, I'm focused on impactful projects in **web and mobile development**, **AI**, and **cybersecurity**, while continuously expanding my knowledge in tech and languages.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayoubghrib&show_icons=true&locale=en&layout=compact" alt="ayoubghrib" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayoubghrib&show_icons=true&locale=en" alt="ayoubghrib" /></p>
+### 🔨 Projects
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayoubghrib&" alt="ayoubghrib" /></p>
+- 🔗 **Jobylinker** – A recruitment platform connecting job seekers and recruiters seamlessly.  
+  `Java | MySQL | Flask API | HTML/CSS/Bootstrap | OAuth2 | Redis | CI/CD`
+
+- 🌀 **The Maze** – A creative puzzle/maze game project developed in C/C++.  
+  `C | Game Logic | Graphics Programming`
+
+- 🧪 **Freelance Projects** – Various tools and websites for clients via **Fiverr** and **Etsy**.  
+  `HTML/CSS | JavaScript | MySQL | CMS platforms`
+
+---
+
+### 💼 Experience
+
+- 👨‍💻 **Java Developer** at WebHelp  
+- 🧪 **QA Tester** at Majorel  
+- 🌐 **Web Consultant** at SEBN.ma  
+- 🛠️ **Assistant Web Developer (Intern)** at Hoari Travaux  
+- 🧰 **Freelancer** on Fiverr & Etsy
+
+---
+
+### 📚 Currently Learning
+
+- 🤖 Machine Learning  
+- 🔐 Cybersecurity Fundamentals  
+- 🌐 Networking & Systems 🛜📡  
+- 🇩🇪 German Language (Level B1)
+
+---
+
+### 🤝 Let's Connect
+
+- 💼 Open to collaborating on web, AI, or open source projects
+- 📬 Reach me at: `ayoubgharib30@gmail.com`
+- 🧑‍💻 GitHub: [@Ayoubghrib](https://github.com/Ayoubghrib)
+- 🌐 Portfolio: *Coming Soon*
+
+---
+
+### ⚡ Fun Facts
+
+- I'm currently teaching my little brother **the C language** 👨‍🏫.
+- Online, I go by the nickname **Pippo** 🧢.
+- I believe that the best software is built to **solve real-world problems**.
+
+---
+
+> _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_

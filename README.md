@@ -76,8 +76,3 @@ Currently focused on impactful projects in **Web & Mobile Development**, **AI**,
 ---
 
 > _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ayoubghrib&label=Profile%20Views&color=0e75b6&style=flat" alt="Ayoubghrib" />
-  <img src="[https://img.shields.io/github/followers/Ayoubghrib?label=Followers&style=social](https://github.com/Ayoubghrib?tab=followers)" alt="followers"/>
-</p>

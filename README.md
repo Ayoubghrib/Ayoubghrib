@@ -68,7 +68,7 @@ Currently focused on impactful projects in **Web & Mobile Development**, **AI**,
 ---
 
 ### ⚡ Fun Facts
-
+- 👨‍🏫 I’m a web developer, but I don’t have time to decorate my own portfolio.  
 - 👨‍🏫 Currently teaching my little brother **the C language**  
 - 🧢 Online, I go by **Pippo**  
 - 💡 I believe the best software solves **real-world problems**
